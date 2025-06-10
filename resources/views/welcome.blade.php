@@ -277,7 +277,7 @@
          <div class="container ">
         <h1 class="text-primary">Rama para trabajar en el Login</h1>
         <!--<button class="btn btn-success">Botón de prueba</button>!-->
-        <button type="button" class="btn btn-outline-warning">Warning</button>
+        <button type="button" class="btn btn-outline-warning">Prueba</button>
     </div>
     </body>
 </html>
