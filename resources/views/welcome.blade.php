@@ -274,9 +274,10 @@
             <div class="h-14.5 hidden lg:block"></div>
         @endif
 
-         <div class="container mt-5">
-        <h1 class="text-primary">Pokedex de luis Barrios</h1>
-        <button class="btn btn-success">Botón de prueba</button>
+         <div class="container ">
+        <h1 class="text-primary">Rama para trabajar en el Login</h1>
+        <!--<button class="btn btn-success">Botón de prueba</button>!-->
+        <button type="button" class="btn btn-outline-warning">Warning</button>
     </div>
     </body>
 </html>
