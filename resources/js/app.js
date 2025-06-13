@@ -1,3 +1,7 @@
-import 'bootstrap/dist/css/bootstrap.min.css'; // Importa el CSS
-import 'bootstrap'; // Importa JS (modales, dropdowns, etc.)
+import './bootstrap';
 
+import Alpine from 'alpinejs';
+
+window.Alpine = Alpine;
+
+Alpine.start();
