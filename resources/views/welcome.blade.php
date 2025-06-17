@@ -276,13 +276,13 @@
         <!-- Ejemplo de tarjeta pokemon boostrap -->
          <div class="container my-5">
 
-    <h1 class="text-center mb-4">Pokédex</h1>
+    <h1 class="text-center mb-4">Pkdex</h1>
 
     <div class="card mx-auto" style="width: 22rem;">
-        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" class="card-img-top" alt="Pikachu">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png" class="card-img-top" alt="Pikachu">
         <div class="card-body">
-            <h5 class="card-title">#025 - Pikachu</h5>
-            <p><strong>Tipos:</strong> Eléctrico</p>
+            <h5 class="card-title">#Numero - Blastoise</h5>
+            <p><strong>Tipos:</strong> Agua</p>
             <p><strong>Habilidades:</strong> Static, Lightning Rod</p>
             <p><strong>Altura:</strong> 0.4 m</p>
             <p><strong>Peso:</strong> 6 kg</p>
@@ -294,6 +294,20 @@
         </div>
     </div>
 
+    <!-- ejemplo dos tarjeta pokemon 
+    <div class="card border-primary  mb-3" style="max-width: 20rem;">
+  <div class="card-header">#004 - Charmander</div>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" class="card-img-top" alt="Charmander">
+  <div class="card-body text-primary">
+    <h5 class="card-title">Charmander</h5>
+    <p class="card-text"><strong>Tipo:</strong> <span class="badge bg-danger">Fire</span></p>
+    <p><strong>Habilidad:</strong> Blaze</p>
+    <p><strong>Altura:</strong> 0.6 m</p>
+    <p><strong>Peso:</strong> 8.5 kg</p>
+    <a href="#" class="btn btn-outline-primary">Más info</a>
+  </div>
+</div>
+-->
 
 </div>
     </body>
